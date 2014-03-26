@@ -5,7 +5,7 @@ Ruby scripts to validate a list of email addresses.
 
 Usage
 =====
-
+<pre>
 ./ValidateEmails.rb 
 Usage: ValidateEmails COMMAND FILENAME [OPTIONS]
 
@@ -22,7 +22,7 @@ Options
 Examples:
    ./ValidateEmails.rb domain sample.txt -o MXResults.txt
    ./ValidateEmails.rb user sample.txt -d example.net -r webmaster@example.net
-
+</pre>
 
 
 Notes
