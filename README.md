@@ -27,7 +27,8 @@ Examples:
 
 Notes
 =====
-
-1) Based on: https://github.com/skillnet/validates_email_with_smtp
-2) Using Regex from https://github.com/balexand/email_validator
-3) Inspired by https://github.com/pash/email_veracity_checker
+<ol>
+<li>Based on: https://github.com/skillnet/validates_email_with_smtp</li>
+<li>Using Regex from https://github.com/balexand/email_validator</li>
+<li>Inspired by https://github.com/pash/email_veracity_checker</li>
+</ol>
